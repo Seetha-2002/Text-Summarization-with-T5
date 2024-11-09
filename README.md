@@ -20,3 +20,10 @@ Access the Gradio interface in your browser to interact with the model.
 ## Acknowledgments
 - Hugging Face for the T5 model
 - Gradio for the easy-to-use web interface
+## Example
+![Alt text for image](images/sample-image.png)
+
+## Image Example Using HTML
+Below is an example of adding an image using HTML for additional styling options.
+
+<img src="images/sample-image.png" alt="Alt text for image" width="400"/>
