@@ -21,5 +21,5 @@ Access the Gradio interface in your browser to interact with the model.
 - Hugging Face for the T5 model
 - Gradio for the easy-to-use web interface
 ## Example
-![Alt text for image](Screenshot 2024-11-09 155648.png)
+- ![example output](Screenshot 2024-11-09 155648.png)
 
