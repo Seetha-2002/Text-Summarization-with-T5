@@ -21,4 +21,4 @@ Access the Gradio interface in your browser to interact with the model.
 - Hugging Face for the T5 model
 - Gradio for the easy-to-use web interface
 ## Example
-https://github.com/Seetha-2002/Text-Summarization-with-T5/blob/main/Screenshot%202024-11-09%20155648.png
+![Alt text](https://github.com/Seetha-2002/Text-Summarization-with-T5/blob/main/Screenshot%202024-11-09%20155648.png)
