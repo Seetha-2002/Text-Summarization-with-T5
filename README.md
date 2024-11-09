@@ -11,7 +11,7 @@ This project implements a text summarization application using the T5 transforme
    - pip install -r [requirements.txt](requirements.txt)
 ## Usage
 Run the application:
-python main.py
+-[main.py](main.py)
 Access the Gradio interface in your browser to interact with the model.
 ## Requirements
 - transformers
